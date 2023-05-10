@@ -1,5 +1,5 @@
-def area_rectangulo(longitud, altura):
-    area = longitud * altura
-    return area
-
-print(area_rectangulo(12,4))
+def saludo(nombre):
+    saludo_= "Hola " + nombre
+    return saludo_
+    
+print(saludo("Cavaleri")))
